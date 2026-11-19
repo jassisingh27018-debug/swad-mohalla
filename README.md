@@ -8,7 +8,7 @@ Built by **Team Data Dynamo** for **BuildHer Bharat 2026**.
 
 ## 🔗 Live demo
 
-`https://<your-github-username>.github.io/swad-mohalla/`
+`https://<jassisingh27018-debug>.github.io/swad-mohalla/`
 
 (Enable it under **Settings → Pages → Deploy from branch → `main` / root**.)
 
@@ -40,7 +40,7 @@ Built by **Team Data Dynamo** for **BuildHer Bharat 2026**.
 No build step. It is a single self-contained file.
 
 ```bash
-git clone https://github.com/<your-github-username>/swad-mohalla.git
+git clone https://github.com/<jassisingh27018-debug>/swad-mohalla.git
 cd swad-mohalla
 # just open index.html in a browser, or:
 python3 -m http.server 8000   # then visit http://localhost:8000
